@@ -1,0 +1,5 @@
+XlsToJsonConverter/bin
+XlsToJsonConverter/obj
+XlsToJsonConverter.Tests/bin
+XlsToJsonConverter.Tests/obj
+.vs

@@ -1,0 +1,8 @@
+
+{
+  "ExcelInputFolder": "C:\\bars\\BARS",
+  "ExcelProcessedFolder": "C:\\bars\\Processed BARS",
+  "ExecutableFilePath": "C:\\Users\\Владелец\\source\\repos\\XlsToJsonConverter\\XlsToJsonConverter\\bin\\Debug\\netcoreapp3.1\\XlsToJsonConverter.exe",
+  "GoogleDriveCredsPath": "C:\\Users\\Владелец\\source\\repos\\BarsXlsToJsonNode\\XlsToJsonConverter\\credentials.json",
+  "GoogleDriveTokenPath": "C:\\Users\\Владелец\\source\\repos\\XlsToJsonConverter\\XlsToJsonConverter\\bin\\Debug\\netcoreapp3.1\\token.json"
+}
